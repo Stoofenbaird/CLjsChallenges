@@ -1,0 +1,14 @@
+Ch. 4
+Make a function to print 1-100 out using console.log but only display every 
+even number.  After all the numbers are printed, also display the sum of all
+odd numbers and the sum of all even numbers.
+
+Ch. 14 - no challenge was assigned this number
+
+Ch. 15 Ask the user for a number 1-5, use a switch statement to print
+the word equivalent of the number on the screen.
+
+Ch. 16.  Create an array, with a length larger than 5 and display the content
+to the screen using a for statement.
+
+Ch. 17. Create a rock, scissors, paper game against the computer.
