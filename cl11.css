@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+div {
+	height: 80px;
+	width: auto;
+	background-color:#9C3;
+}
+
+div h1 {
+	font-weight: bold;
+	color:black;
+	text-align: center;
+	margin: 10px;
+	padding: 20px;
+}
+

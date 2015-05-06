@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+aside {
+	background-color:#FF0066;
+	width: 230px;
+	height: 400px;
+	float: left;
+	margin: 20px;	
+}
+
+aside h1, h2 {
+	color: #FFF;
+	text-align: center;
+		
+}
+
+section {
+	margin: 20px;
+	padding: 30px;
+	
+}
